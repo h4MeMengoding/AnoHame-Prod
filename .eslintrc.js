@@ -67,6 +67,7 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'error',
     'import/no-named-as-default': 'off',
     endOfLine: 'auto',
+    "useTabs": false, "tabWidth":4,
     'prefer-object-spread': 'off',
     'arrow-body-style': 'off',
     'no-console': [
