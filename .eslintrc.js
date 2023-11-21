@@ -42,6 +42,7 @@ module.exports = {
     'react/button-has-type': 'off',
     'react/no-unescaped-entities': 'off',
     'operator-assignment': 'off',
+    "@next/next/no-page-custom-font": "off",
     'prefer-destructuring': 'off',
     'react/no-children-prop': 'off',
     'consistent-return': 'off',
@@ -65,6 +66,7 @@ module.exports = {
     '@typescript-eslint/no-shadow': 'off',
     'react-hooks/exhaustive-deps': 'error',
     'import/no-named-as-default': 'off',
+    "endOfLine": "auto",
     'prefer-object-spread': 'off',
     'arrow-body-style': 'off',
     'no-console': [
